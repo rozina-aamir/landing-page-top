@@ -11,3 +11,7 @@ a:link {
     color: #E5E7EB;
     text-decoration: none;
 }
+
+a:hover {
+    font-size: 18px;
+}
