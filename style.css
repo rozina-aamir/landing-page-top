@@ -12,7 +12,6 @@ body {
 
 .link {
    justify-content: flex-end;
-   flex-grow: 1;
 }
 
 a:link {
