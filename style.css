@@ -7,7 +7,7 @@ body {
     display: flex;
     flex-grow: auto;
     margin: 0;
-    border: none;
+    border-style: none;
 }
 
 a:link {
