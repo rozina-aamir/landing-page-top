@@ -9,7 +9,7 @@ body {
     border-style: none;
 }
 
-#header.link {
+.link {
    justify-content: flex-end;
    flex-grow: 1;
 }
