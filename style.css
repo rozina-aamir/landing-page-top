@@ -10,6 +10,10 @@ body {
     border-style: none;
 }
 
+#header.link {
+   text-align: right; 
+}
+
 a:link {
     font-size: 18px;
     color: #E5E7EB;
