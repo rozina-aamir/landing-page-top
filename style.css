@@ -30,6 +30,10 @@ a:active {
     text-decoration: underline;
 }
 
+a:visited {
+    font-weight: bold;
+}
+
 #hero {
     background-color: #1F2937;
 }
