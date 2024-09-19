@@ -5,7 +5,7 @@ body {
 #header {
     background-color: #1F2937;
     display: flex;
-    flex-grow: auto;
+    flex: 1;
     border-style: none;
 }
 
