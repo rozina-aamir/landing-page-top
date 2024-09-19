@@ -12,6 +12,7 @@ body {
 
 .link {
    text-align: right;
+   justify-content: flex-end;
 }
 
 a:link {
