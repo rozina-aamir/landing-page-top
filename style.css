@@ -15,7 +15,7 @@ body {
 .link {
    align-items: right;
    justify-content: flex-end;
-   margin: auto;
+   margin: 0;
 }
 
 a:link {
