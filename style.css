@@ -8,7 +8,6 @@ body {
     flex: 1 30px;
     border-style: none;
     margin: 0;
-    justify-content: flex-start;
 }
 
 .logo {
