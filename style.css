@@ -54,6 +54,7 @@ a:visited {
     display: flex;
     border-style: none;
     margin: -10px;
+    padding: -10px;
 }
 
 h1.main {
