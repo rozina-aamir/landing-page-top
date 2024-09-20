@@ -7,7 +7,7 @@ body {
     display: flex;
     flex: 1 30px;
     border-style: none;
-    margin: none;
+    margin: -10px;
 }
 
 .logo {
