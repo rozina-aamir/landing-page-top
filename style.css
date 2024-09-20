@@ -11,6 +11,10 @@ body {
     justify-content: flex-start;
 }
 
+.logo {
+    justify-content: flex-start;
+}
+
 .link {
    justify-content: flex-end;
    margin: 0;
