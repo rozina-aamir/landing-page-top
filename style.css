@@ -12,7 +12,6 @@ body {
 }
 
 .link {
-   align-items: right;
    justify-content: flex-end;
    margin: 0;
 }
