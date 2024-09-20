@@ -52,6 +52,7 @@ a:visited {
 #hero {
     background-color: #1F2937;
     display: flex;
+    border-style: none;
 }
 
 h1.main {
