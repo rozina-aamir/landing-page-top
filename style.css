@@ -5,7 +5,6 @@ body {
 #header {
     background-color: #1F2937;
     display: flex;
-    flex: 1 30px;
     border-style: none;
     margin: -10px;
     padding: -10px;
