@@ -41,7 +41,7 @@ a:active {
 a:visited {
     font-size: 18px;
     color: #E5E7EB;
-    font-weight: bold;
+    font-weight: 700;
 }
 
 #hero {
