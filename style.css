@@ -69,3 +69,7 @@ p.secondary {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+button.cta {
+    background-color: #3882F6;
+}
