@@ -68,6 +68,13 @@ h1.main {
     padding: 10px;
 }
 
+#placeholder {
+    display: inline-block;
+    align-items: right;
+    margin: 10px;
+    padding: 10px;
+}
+
 p.secondary {
     flex-direction: column;
     font-size: 18px;
@@ -86,11 +93,4 @@ button.cta {
     font-weight: 900;
     margin: 20px;
     padding: 10px 30px;
-}
-
-#placeholder {
-    display: inline-block;
-    align-items: right;
-    margin: 10px;
-    padding: 10px;
 }
