@@ -89,7 +89,7 @@ button.cta {
 }
 
 #placeholder {
-    display: inline;
+    display: inline-block;
     align-items: right;
     margin: 10px;
     padding: 10px;
