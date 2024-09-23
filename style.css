@@ -84,7 +84,7 @@ p.secondary {
 }
 
 button.cta {
-    flex-direction: row;
+    flex-direction: column;
     border: none;
     border-radius: 8px;
     background-color: #3882F6;
