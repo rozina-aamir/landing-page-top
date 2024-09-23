@@ -64,6 +64,7 @@ h1.main {
     color: #F9FAF8;
     font-weight: 900;
     flex-basis: 200px;
+    margin: 10px;
 }
 
 p.secondary {
