@@ -69,7 +69,7 @@ h1.main {
 }
 
 #placeholder {
-    flex-direction: row;
+    flex-direction: column;
     display: inline-block;
     align-items: right;
     margin: 10px;
