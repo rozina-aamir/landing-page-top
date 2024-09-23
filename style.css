@@ -88,7 +88,7 @@ button.cta {
     padding: 10px 30px;
 }
 
-.placeholder {
+#placeholder {
     flex-direction: row;
     justify-self: end;
     justify-content: space-evenly;
