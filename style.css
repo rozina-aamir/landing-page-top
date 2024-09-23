@@ -52,6 +52,7 @@ a:visited {
 }
 
 #hero {
+    justify-content: center;
     background-color: #1F2937;
     border-style: none;
     margin: -10px;
