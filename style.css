@@ -87,3 +87,7 @@ button.cta {
     margin: 20px;
     padding: 10px 30px;
 }
+
+.placeholder {
+    justify-content: end;
+}
