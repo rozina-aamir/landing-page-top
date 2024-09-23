@@ -69,6 +69,7 @@ h1.main {
 }
 
 #placeholder {
+    flex-direction: row;
     display: inline-block;
     align-items: right;
     margin: 10px;
