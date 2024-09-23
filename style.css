@@ -76,7 +76,7 @@ h1.main {
 }
 
 p.secondary {
-    flex-direction: column;
+    flex-direction: row;
     font-size: 18px;
     color: #E5E7EB;
     margin: 10px;
