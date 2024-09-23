@@ -54,7 +54,6 @@ a:visited {
 #hero {
     background-color: #1F2937;
     flex-flow: column-wrap;
-    display: flex;
     border-style: none;
     margin: -10px;
     padding: -10px;
