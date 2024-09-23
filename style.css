@@ -89,7 +89,7 @@ button.cta {
 }
 
 #placeholder {
-    flex-direction: row;
+    flex-direction: column;
     justify-content: end;
     padding: 20px;
 }
