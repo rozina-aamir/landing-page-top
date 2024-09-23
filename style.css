@@ -92,4 +92,5 @@ button.cta {
     flex-direction: row;
     justify-self: end;
     justify-content: space-evenly;
+    margin: 20px;
 }
