@@ -89,6 +89,5 @@ button.cta {
 }
 
 .placeholder {
-    justify-content: end;
     flex-direction: row;
 }
