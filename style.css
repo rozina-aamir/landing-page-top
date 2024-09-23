@@ -91,5 +91,6 @@ button.cta {
 #placeholder {
     flex-direction: row;
     justify-content: space-evenly;
+    margin: 10px;
     padding: 10px;
 }
