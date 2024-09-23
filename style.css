@@ -60,7 +60,7 @@ a:visited {
 }
 
 h1.main {
-    flex-direction: column;
+    flex-direction: row;
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
