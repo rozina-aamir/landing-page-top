@@ -72,6 +72,7 @@ p.secondary {
     flex-direction: column;
     font-size: 18px;
     color: #E5E7EB;
+    margin: 10px;
 }
 
 button.cta {
