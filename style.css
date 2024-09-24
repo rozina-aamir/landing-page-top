@@ -60,6 +60,8 @@ a:visited {
     padding: -10px;
 
     #herostuff {
+        display: flex;
+        
         h1.main {
             display: flex;
             flex-wrap: wrap;
