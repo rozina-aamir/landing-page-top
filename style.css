@@ -73,7 +73,7 @@ h1.main {
     display: flex;
     justify-content: end;
     align-items: flex-end;
-    padding: 5px;
+    padding: 20px;
 }
 
 p.secondary {
