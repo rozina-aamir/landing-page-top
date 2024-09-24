@@ -82,7 +82,6 @@ h1.main {
 }
 
 p.secondary {
-    inline-size: 100px;
     display: flex;
     flex-direction: column;
     font-size: 18px;
