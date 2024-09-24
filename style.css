@@ -60,6 +60,7 @@ a:visited {
 }
 
 h1.main {
+    inline-size: 100px;
     display: flex;
     flex: auto;
     float: left;
