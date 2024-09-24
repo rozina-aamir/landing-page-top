@@ -70,7 +70,7 @@ h1.main {
 
 #placeholder {
     flex-direction: row;
-    display: inline-block;
+    display: flex;
     justify-content: end;
     margin: 5px;
     padding: 5px;
