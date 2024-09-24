@@ -91,16 +91,6 @@ a:visited {
     padding: 20px;
 }
 
-p.secondary {
-    flex-wrap: wrap;
-    display: flex;
-    flex-direction: column;
-    font-size: 18px;
-    color: #E5E7EB;
-    margin: 10px;
-    padding: 10px;
-}
-
 button.cta {
     display: flex;
     flex-direction: column;
