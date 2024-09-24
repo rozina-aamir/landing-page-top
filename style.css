@@ -71,6 +71,7 @@ h1.main {
 #placeholder {
     flex-direction: row;
     display: flex;
+    flex: auto;
     justify-content: end;
     align-items: flex-end;
     padding: 20px;
