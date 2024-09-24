@@ -73,8 +73,6 @@ a:visited {
         }
     
         p.secondary {
-            flex-wrap: wrap;
-            display: flex;
             flex-direction: column;
             font-size: 18px;
             color: #E5E7EB;
