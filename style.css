@@ -61,7 +61,8 @@ a:visited {
 
     #herostuff {
         display: flex;
-        
+        flex-wrap: wrap;
+
         h1.main {
             display: flex;
             flex-wrap: wrap;
