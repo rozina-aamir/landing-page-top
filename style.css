@@ -79,7 +79,7 @@ a:visited {
             padding: 10px;
         }
     
-        button.cta {
+        .cta {
             flex-direction: column;
             border: none;
             border-radius: 8px;
