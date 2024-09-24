@@ -74,6 +74,7 @@ h1.main {
     flex-direction: row;
     display: flex;
     flex-wrap: wrap;
+    align-self: flex-end;
     flex: auto;
     justify-content: end;
     align-items: flex-end;
