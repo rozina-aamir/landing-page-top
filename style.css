@@ -103,14 +103,3 @@ a:visited {
         padding: 20px;
     }
 }
-
-#placeholder {
-    flex-direction: row;
-    display: flex;
-    flex-wrap: wrap;
-    align-self: flex-end;
-    flex: auto;
-    justify-content: end;
-    align-items: flex-end;
-    padding: 20px;
-}
