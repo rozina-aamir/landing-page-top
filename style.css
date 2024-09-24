@@ -82,6 +82,7 @@ h1.main {
 }
 
 p.secondary {
+    inline-size: 100px;
     float: left;
     display: flex;
     flex-direction: column;
