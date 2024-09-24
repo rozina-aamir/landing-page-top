@@ -64,8 +64,6 @@ a:visited {
         flex-wrap: wrap;
 
         h1.main {
-            display: flex;
-            flex-wrap: wrap;
             flex-direction: column;
             font-size: 48px;
             color: #F9FAF8;
