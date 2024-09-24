@@ -58,6 +58,42 @@ a:visited {
     margin: -10px;
     padding: -10px;
 
+    #herostuff {
+        h1.main {
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: column;
+            font-size: 48px;
+            color: #F9FAF8;
+            font-weight: 900;
+            margin: 10px;
+            padding: 10px;
+        }
+    
+        p.secondary {
+            flex-wrap: wrap;
+            display: flex;
+            flex-direction: column;
+            font-size: 18px;
+            color: #E5E7EB;
+            margin: 10px;
+            padding: 10px;
+        }
+    
+        button.cta {
+            display: flex;
+            flex-direction: column;
+            border: none;
+            border-radius: 8px;
+            background-color: #3882F6;
+            color: #E5E7EB;
+            font-size: 18px;
+            font-weight: 900;
+            margin: 20px;
+            padding: 10px 30px;
+        }   
+    }
+
     #placeholder {
         flex-direction: row;
         display: flex;
