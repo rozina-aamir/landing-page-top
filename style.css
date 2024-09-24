@@ -62,7 +62,6 @@ a:visited {
 h1.main {
     inline-size: 100px;
     display: flex;
-    flex: auto;
     flex-direction: column;
     font-size: 48px;
     color: #F9FAF8;
