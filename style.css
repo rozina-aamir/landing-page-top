@@ -86,6 +86,7 @@ p.secondary {
 }
 
 button.cta {
+    display: flex;
     flex-direction: column;
     border: none;
     border-radius: 8px;
