@@ -117,4 +117,8 @@ a:visited {
         display: flex;
         justify-content: center;
     }
+
+    .subtext {
+        flex-direction: row;
+    }
 }
