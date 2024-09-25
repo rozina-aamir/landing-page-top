@@ -120,7 +120,7 @@ a:visited {
     }
 
     .subtext {
-        flex-direction: column;
+        flex-direction: row;
         display: flex;
         justify-content: center;
         text-align: center;
