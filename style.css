@@ -102,7 +102,8 @@ a:visited {
 
 #information {
     justify-content: center;
-    
+    display: flex;
+
     .subheading {
         font-size: 36px;
         color: #1F2937;
