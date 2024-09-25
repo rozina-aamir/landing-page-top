@@ -114,5 +114,6 @@ a:visited {
 
     .image {
         flex-direction: row;
+        display: flex;
     }
 }
