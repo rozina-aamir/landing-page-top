@@ -103,6 +103,7 @@ a:visited {
 #information {
     justify-content: center;
     display: flex;
+    text-align: center;
 
     .subheading {
         font-size: 36px;
