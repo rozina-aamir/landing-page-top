@@ -111,4 +111,8 @@ a:visited {
         color: #1F2937;
         font-weight: 900;
     }
+
+    .image {
+        flex-direction: row;
+    }
 }
