@@ -130,7 +130,7 @@ a:visited {
 
         .subtext {
             flex-direction: row;
-            justify-content: space-evenly;
+            justify-content: center;
             text-align: center;
             margin: 10px;
             padding: 10px;
