@@ -119,13 +119,6 @@ a:visited {
     display: flex;
     text-align: center;
 
-    .image {
-        flex-direction: row;
-        display: flex;
-        justify-content: space-evenly;
-        align-items: center;
-    }
-
     .subtext {
         flex-direction: row;
         display: flex;
