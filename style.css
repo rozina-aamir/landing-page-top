@@ -111,7 +111,6 @@ a:visited {
     justify-content: center;
     display: flex;
     text-align: center;
-    flex-direction: row;
 
     .image {
         flex-direction: row;
