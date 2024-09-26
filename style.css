@@ -100,14 +100,6 @@ a:visited {
     }
 }
 
-.image {
-    flex-direction: row;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-}
-
-
 .subtext {
     flex-direction: row;
     display: flex;
