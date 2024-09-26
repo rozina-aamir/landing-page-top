@@ -118,6 +118,7 @@ a:visited {
     .image-captions {
         display: flex;
         flex-wrap: wrap;
+        flex-direction: column;
 
         .image {
             flex-direction: row;
