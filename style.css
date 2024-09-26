@@ -131,6 +131,7 @@ a:visited {
     }
 
     .image-captions {
-        display: flex;       
+        display: flex;
+        flex-wrap: wrap;
     }
 }
