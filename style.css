@@ -121,6 +121,7 @@ a:visited {
 
         .image {
             flex-direction: row;
+            justify-content: space-around;
             align-items: center;
             margin: 10px;
             padding: 10px;
