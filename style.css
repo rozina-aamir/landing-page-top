@@ -121,7 +121,7 @@ a:visited {
 
     .subtext {
         flex-direction: row;
-        display: inline-block;
+        display: flex;
         justify-content: space-evenly;
         text-align: center;
     }
