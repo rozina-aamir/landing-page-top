@@ -100,6 +100,13 @@ a:visited {
     }
 }
 
+.subheading {
+    flex-direction: column;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
 #information {
     justify-content: center;
     display: flex;
