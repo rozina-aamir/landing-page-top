@@ -107,6 +107,13 @@ a:visited {
     font-weight: 900;
 }
 
+.image {
+    flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
 #information {
     justify-content: center;
     display: flex;
