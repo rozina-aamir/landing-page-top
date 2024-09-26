@@ -122,7 +122,6 @@ a:visited {
 
         .image {
             flex-direction: row;
-            display: flex;
             justify-content: space-evenly;
             align-items: center;
             margin: 10px;
