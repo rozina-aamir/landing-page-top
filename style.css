@@ -129,4 +129,12 @@ a:visited {
     text-align: center;
     margin: 10px;
     padding: 10px;
+
+    .subheading {
+        display: flex;
+        flex-direction: column;
+        font-size: 36px;
+        color: #1F2937;
+        font-weight: 900;
+    }
 }
