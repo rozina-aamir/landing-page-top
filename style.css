@@ -114,6 +114,14 @@ a:visited {
     align-items: center;
 }
 
+
+.subtext {
+    flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
 #information {
     justify-content: center;
     display: flex;
