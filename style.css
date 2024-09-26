@@ -133,5 +133,12 @@ a:visited {
     .image-captions {
         display: flex;
         flex-wrap: wrap;
+
+        .image {
+            flex-direction: row;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+        }
     }
 }
