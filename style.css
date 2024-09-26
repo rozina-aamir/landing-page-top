@@ -126,11 +126,4 @@ a:visited {
     justify-content: center;
     display: flex;
     text-align: center;
-
-    .subtext {
-        flex-direction: row;
-        display: flex;
-        justify-content: space-evenly;
-        text-align: center;
-    }
 }
