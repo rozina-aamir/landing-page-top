@@ -112,13 +112,6 @@ a:visited {
     display: flex;
     text-align: center;
 
-    .subheading {
-        flex-direction: column;
-        font-size: 36px;
-        color: #1F2937;
-        font-weight: 900;
-    }
-
     .image {
         flex-direction: row;
         display: flex;
