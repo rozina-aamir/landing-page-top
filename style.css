@@ -131,6 +131,7 @@ a:visited {
         .subtext {
             display: flex;
             flex-direction: row;
+            justify-content: space-evenly;
             text-align: center;
             margin: 10px;
             padding: 10px;
