@@ -3,6 +3,7 @@
 A landing page created as part of [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page)
 
 ### Image Credits
+- [Computer Icon](https://icons8.com/icon/20420/imac) by [Icons8](https://icons8.com)
 - Laptop photo by [AltumCode](https://unsplash.com/@altumcode) on [Unsplash](https://unsplash.com/photos/turned-on-laptop-computer-dC6Pb2JdAqs)
 - Mountain photo by [Joseph Corl](https://unsplash.com/@jcorl) on [Unsplash](https://unsplash.com/photos/a-mountain-covered-in-snow-and-clouds-under-a-cloudy-sky-em_aAn2T-wk)
 - Car photo by [Polina Kuzovkova](https://unsplash.com/@p_kuzovkova) on [Unsplash](https://unsplash.com/photos/red-and-white-sedan-on-road-near-buildings-during-daytime-lbx3NsxU924)
