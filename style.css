@@ -120,14 +120,14 @@ a:visited {
         display: flex;
         flex-direction: row;
 
-        .image {
-            display: flex;
-            flex-direction: row;
-            justify-content: space-evenly;
-            align-items: center;
-            margin: 10px;
-            padding: 10px;
-        }
+    .image {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+        margin: 10px;
+        padding: 10px;
+    }
 
     .subtext {
         display: flex;
