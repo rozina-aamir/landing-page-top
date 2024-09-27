@@ -117,7 +117,7 @@ a:visited {
 
     .image-captions {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
 
         .image {
             display: flex;
