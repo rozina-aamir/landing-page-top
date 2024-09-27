@@ -112,7 +112,6 @@ a:visited {
 
 #information {
     justify-content: center;
-    display: flex;
     flex-direction: column;
     padding: 20px;
 }    
