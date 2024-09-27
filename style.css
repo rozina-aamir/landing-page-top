@@ -125,11 +125,11 @@ a:visited {
     padding: 10px;
 }
 
-    .subtext {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-evenly;
-        align-items: center;
-        margin: 10px;
-        padding: 10px;
-    }
+.subtext {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+}
