@@ -132,7 +132,7 @@ a:visited {
             display: flex;
             flex-direction: row;
             justify-content: space-evenly;
-            text-align: center;
+            align-items: center;
             margin: 10px;
             padding: 10px;
         }
