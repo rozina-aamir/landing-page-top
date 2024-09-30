@@ -128,8 +128,6 @@ h2.subheading {
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
-    border: none;
-    border-radius: 10px;
     gap: 1em;
     margin: 10px;
     padding: 10px;
