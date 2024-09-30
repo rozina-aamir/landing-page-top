@@ -125,6 +125,7 @@ h2.subheading {
 
 img {
     width: 200px;
+    height: auto;
 }
 
 .image {
