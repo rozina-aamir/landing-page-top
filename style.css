@@ -126,6 +126,7 @@ h2.subheading {
 img {
     width: 200px;
     height: auto;
+    border-radius: 10px;
 }
 
 .image {
