@@ -136,7 +136,7 @@ h2.subheading {
         width: 200px;
         height: auto;
         border: none;
-        border-radius: 12px;
+        border-radius: 16px;
         object-fit: cover;
     }
 }
