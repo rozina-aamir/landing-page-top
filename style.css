@@ -139,6 +139,7 @@ h2.subheading {
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
+    gap: 1em;
     width: 60%;
     margin: 10px;
     padding: 10px;
