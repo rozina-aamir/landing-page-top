@@ -107,6 +107,7 @@ a:visited {
 h2.subheading {
     display: flex;
     flex-direction: row;
+    justify-content: center;
     text-align: center;
     font-size: 36px;
     color: #1F2937;
