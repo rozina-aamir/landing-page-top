@@ -104,7 +104,7 @@ a:visited {
     display: flex;
 }
 
-.subheading {
+h2.subheading {
     display: flex;
     align-items: center;
     flex-direction: column;
