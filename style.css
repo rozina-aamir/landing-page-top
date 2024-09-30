@@ -141,6 +141,14 @@ img {
     gap: 1em;
     margin: 10px;
     padding: 10px;
+
+    img {
+        width: 200px;
+        height: auto;
+        border: none;
+        border-radius: 10px;
+        object-fit: cover;
+    }
 }
 
 .subtext {
