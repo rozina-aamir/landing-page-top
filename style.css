@@ -109,7 +109,11 @@ a:visited {
     margin: 10px;
     padding: 10px;
 }
- 
+
+#imagecaptions {
+    display: flex;
+}
+
 .image {
     flex-direction: row;
     justify-content: space-evenly;
