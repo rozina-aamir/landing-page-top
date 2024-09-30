@@ -123,14 +123,6 @@ h2.subheading {
     align-items: center;
 }
 
-img {
-    width: 200px;
-    height: auto;
-    border: none;
-    border-radius: 10px;
-    object-fit: cover;
-}
-
 .image {
     display: flex;
     flex-direction: row;
