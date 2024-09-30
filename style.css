@@ -109,13 +109,7 @@ a:visited {
     margin: 10px;
     padding: 10px;
 }
-
-#information {
-    justify-content: space-evenly;
-    flex-direction: column;
-    padding: 20px;
-}    
-
+ 
 .image {
     flex-direction: row;
     justify-content: space-evenly;
