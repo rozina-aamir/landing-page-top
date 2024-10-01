@@ -150,3 +150,7 @@ h2.subheading {
     gap: 3em;
     width: 60%;
 }
+
+#quote {
+    background-color: #E5E7EB;
+}
