@@ -165,5 +165,6 @@ h2.subheading {
     color: #1F2937;
     padding: 25px;
     width: 75%;
+    display: flex;
     justify-content: center;
 }
