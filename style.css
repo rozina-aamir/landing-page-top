@@ -170,6 +170,7 @@ h2.subheading {
 }
 
 .person {
+    display: flex;
     font-size: 24px;
     font-weight: 700;
     color: 60px;
