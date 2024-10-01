@@ -180,9 +180,6 @@ h2.subheading {
 }
 
 .person {
-    display: flex;
-    flex-direction: row;
-    justify-content: end;
     font-size: 24px;
     font-weight: 700;
     color: #1F2937;
