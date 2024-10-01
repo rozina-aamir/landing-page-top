@@ -171,6 +171,7 @@ h2.subheading {
 
 .person {
     display: flex;
+    flex-direction: row;
     font-size: 24px;
     font-weight: 700;
     color: 60px;
