@@ -173,7 +173,7 @@ h2.subheading {
 #personcontainer {
     display: flex;
     flex-direction: row;
-    justify-content: end;
+    justify-content: center;
     margin: 25px;
     padding: 25px;
     width: 30%;
