@@ -174,7 +174,7 @@ h2.subheading {
     display: flex;
     flex-direction: row;
     justify-content: end;
-    margin: 25px;
+    margin: -125px -20px;
     padding: 25px;
     width: 30%;
 }
