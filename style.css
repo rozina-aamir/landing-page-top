@@ -212,3 +212,7 @@ h2.subheading {
     color: #F9FAF8;
     margin-top: -10px;
 }
+
+#signup {
+    display: flex;
+}
