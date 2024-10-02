@@ -220,6 +220,7 @@ h2.subheading {
     justify-content: end;
     align-items: center;
     margin: -120px 100px;
+    padding-bottom: 100px;
 }
 
 .cta2 {
