@@ -221,7 +221,7 @@ h2.subheading {
 
 .cta2 {
     padding: 5px 20px;
-    border: solid #E5E7EB;
+    border: solid #E5E7EB 3px;
     border-radius: 8px;
     background-color: #3882F6;
     color: #E5E7EB;
