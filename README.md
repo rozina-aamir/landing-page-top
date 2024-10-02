@@ -2,6 +2,8 @@
 
 A landing page created as part of [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page)
 
+Note: Best viewed at 1366 x 768 px. This is not responsive and will most likely break at other screen sizes and resolutions.
+
 ### Image Credits
 - [Computer Icon](https://icons8.com/icon/20420/imac) by [Icons8](https://icons8.com)
 - Laptop photo by [AltumCode](https://unsplash.com/@altumcode) on [Unsplash](https://unsplash.com/photos/turned-on-laptop-computer-dC6Pb2JdAqs)
