@@ -218,9 +218,7 @@ h2.subheading {
     flex-direction: row;
     justify-content: end;
     align-items: center;
-    padding: 20px;
-    padding-bottom: 80px;
-    padding-right: 40px;
+    margin: 50px 100px;
 }
 
 .cta2 {
