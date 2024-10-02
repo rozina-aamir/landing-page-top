@@ -216,6 +216,7 @@ h2.subheading {
 #signup {
     display: flex;
     flex-direction: row;
+    justify-content: end;
 }
 
 .cta2 {
