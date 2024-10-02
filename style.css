@@ -197,6 +197,7 @@ h2.subheading {
     display: flex;
     flex-direction: column;
     padding: 30px 70px;
+    border: none;
 }
 
 .subsubheading {
