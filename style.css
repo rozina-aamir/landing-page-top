@@ -218,6 +218,7 @@ h2.subheading {
     flex-direction: row;
     justify-content: end;
     align-items: center;
+    padding: 20px;
 }
 
 .cta2 {
