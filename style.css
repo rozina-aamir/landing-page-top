@@ -190,15 +190,15 @@ h2.subheading {
 
 #action {
     background-color: #3882F6;
-    margin: 100px 200px;   
+    margin: 100px 200px;
+    border: none;
+    border-radius: 8px;
 }
 
 #textcontainer {
     display: flex;
     flex-direction: column;
     padding: 30px 70px;
-    border: none;
-    border-radius: 8px;
 }
 
 .subsubheading {
