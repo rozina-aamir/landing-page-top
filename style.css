@@ -196,7 +196,7 @@ h2.subheading {
 #textcontainer {
     display: flex;
     flex-direction: column;
-    padding: 20px 40px;
+    padding: 30px 70px;
 }
 
 .subsubheading {
